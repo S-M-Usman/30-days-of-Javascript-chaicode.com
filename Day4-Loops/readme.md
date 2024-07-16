@@ -17,12 +17,6 @@
 ### Activity 4: Nested Loops
 - **Task 7**: Write a program to print a pattern using nested for loops: (ignore color)
 
-*
-**
-***
-****
-*****
-
 ### Activity 5: Loop Control Statements
 - **Task 8**: Write a program that uses the `break` statement to exit a loop when a certain condition is met.
 - **Task 9**: Write a program that uses the `continue` statement to skip the current iteration and proceed with the next iteration of the loop.
