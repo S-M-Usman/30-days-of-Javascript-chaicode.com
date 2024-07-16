@@ -17,7 +17,11 @@
 ### Activity 4: Nested Loops
 - **Task 7**: Write a program to print a pattern using nested for loops: (ignore color)
 
-![Pattern](c:\Users\shaik\Downloads\Screenshot 2024-07-16 100743.png)
+*
+**
+***
+****
+*****
 
 ### Activity 5: Loop Control Statements
 - **Task 8**: Write a program that uses the `break` statement to exit a loop when a certain condition is met.
