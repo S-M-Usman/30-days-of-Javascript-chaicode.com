@@ -98,7 +98,7 @@ let greeting = (name, age = 18) => {
     }
     return
 }
-let result = greeting("Usman") //default value
+let result = greeting("Hitesh") //default value
 console.log(result);
 result = greeting("Usman", 20)
 console.log(result);
